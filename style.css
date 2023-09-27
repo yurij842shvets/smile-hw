@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 1;
+    stroke: currentColor;
+    fill: yellow;
+    height: 197px;
+    width: 226px;
+    background-color: blue;
+    border-radius: 100px;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
